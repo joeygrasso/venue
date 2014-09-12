@@ -1,0 +1,89 @@
+body {
+  padding-top: 20px;
+  background-color: #C3C3E5;
+}
+
+a {
+	color: #443266;
+	font-weight: bold;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #443266;
+}
+
+/* Header Start */
+.header-logo {
+	padding-bottom: 10px;
+	display: block;	
+	background-color: #C3C3E5;
+}
+
+.navbar-inverse { background-color: #443266}
+.navbar-inverse .navbar-nav>.active>a:hover,.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus { background-color: #8C489F}
+.navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.open>a,.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover,.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus { background-color: #8C489F}
+.dropdown-menu { background-color: #FFFFFF}
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus { background-color: #8C489F}
+.navbar-inverse { border-color: #443266}
+.navbar-inverse .navbar-brand { color: #FFFFFF}
+.navbar-inverse .navbar-brand:hover { color: #FFFFFF}
+.navbar-inverse .navbar-nav>li>a { color: #FFFFFF}
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus { color: #FFFFFF}
+.navbar-inverse .navbar-nav>.active>a,.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus { color: #FFFFFF}
+.navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus { color: #FFFFFF}
+.dropdown-menu>li>a { color: #443266}
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus { color: #FFFFFF}
+.navbar-inverse .navbar-nav>.dropdown>a .caret { border-top-color: #FFFFFF}
+.navbar-inverse .navbar-nav>.dropdown>a:hover .caret { border-top-color: #FFFFFF}
+.navbar-inverse .navbar-nav>.dropdown>a .caret { border-bottom-color: #FFFFFF}
+.navbar-inverse .navbar-nav>.dropdown>a:hover .caret { border-bottom-color: #FFFFFF}
+
+
+/* Header End */
+
+.content {
+	 background-color: #C3C3E5;
+}
+
+.mainContainer {
+	background-color: #F1F0FF;
+	padding-bottom: 10px;
+}
+
+footer {
+	background-color: #443266;
+	color: #FFF;
+	padding-top: 10px;
+	text-align: center;
+
+}
+
+hr {
+	border-color: #443266;
+	color: #443266;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+/* Dashboard Start */
+.dashboard-nav{
+	list-style: none;
+	line-height: 1.5;
+	font-size: 1.2em;
+	color: #443266;	
+}
+
+.dashboard-nav > li > a{
+	color: #443266;
+}
+
+.dashboard-nav>li>a:hover{
+	color: #443266;
+	font-weight: bold;
+
+h2#dashboard-h2 {
+	color: #443266;
+}
+}
+/* Dashboard End   */
